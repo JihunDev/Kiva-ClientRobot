@@ -1,0 +1,4 @@
+/home/ubuntu/Downloads/opencv_qr/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Downloads/opencv_qr/CMakeFiles/edit_cache.dir
+/home/ubuntu/Downloads/opencv_qr/CMakeFiles/qr_video.dir
+/home/ubuntu/Downloads/opencv_qr/CMakeFiles/qr_image.dir
