@@ -2,7 +2,7 @@ repo_name: JihunDev/Kiva-ClientRobot
 report_id: 4cdb8c1f9af7d347d49f6885441ab586
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:21:00+00:00'
+timestamp: '2024-02-29T19:06:06+00:00'
 requested_by: JihunDev
 provider: github
 branch: master
@@ -42,7 +42,7 @@ tools:
   last_updated_by: Jihun Kim
   last_updated_on: 2018-05-28 00:02:35.000000000 Z
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
